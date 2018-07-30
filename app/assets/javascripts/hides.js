@@ -1,4 +1,4 @@
-çfunction hideWhenClicked(e) {
+function hideWhenClicked(e) {
   var $target = $(e.target);
   $target.hide();
 }
