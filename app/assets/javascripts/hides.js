@@ -1,5 +1,5 @@
-function hideWhenClicked(e) {
-  let $target = $(e.target);
+çfunction hideWhenClicked(e) {
+  var $target = $(e.target);
   $target.hide();
 }
 
